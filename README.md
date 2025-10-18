@@ -1,3 +1,3 @@
 # CSE134B-<TermInfo>-HW1
-# Name:
-# PID:
+# Name: JOSEPH KIM
+# PID: A18530165
